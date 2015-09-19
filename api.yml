@@ -1,0 +1,9 @@
+'/list':
+    'get':
+        '[{"name": "workout", "status": "active"},
+{"name": "play kendama", "status": "active"},
+{"name": "coding", "status": "completed" }]'
+'/echo':
+    '/{name}':
+        'get':
+            'Hello {name}'

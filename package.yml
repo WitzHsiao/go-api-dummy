@@ -1,0 +1,4 @@
+deps: [
+    'github.com/davecgh/go-spew/spew',
+    'gopkg.in/yaml.v2'
+]
